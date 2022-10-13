@@ -1,0 +1,9 @@
+Lista jest kolekcją, która może zmieniać swój rozmiar wraz z dodawaniem
+lub usuwaniem kolejnych elementów, a tablica musi mieć z góry określony rozmiar.
+
+Wartości w tablicy są oparte o indeksy, a Dane w Liście liniowej zależą od
+poprzedniego oraz następnego elementu w liście.
+
+Jeżeli wykonujemy dużo operacji usuwania lub dodawania elementów
+to lepsza będzie lista, a w przypadku kiedy chcemy częściej wykonywać
+odczyt danych, lepiej będzie wybrać tablicę.

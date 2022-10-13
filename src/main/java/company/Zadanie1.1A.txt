@@ -1,0 +1,14 @@
+Jeżeli chcemy, żeby klasy potomne miały możliwość
+implementowania wybranych metod a niekoniecznie wszystkich
+z danego wzorca to w takim wypadku najlepsza będzie klasa abstrakcyjna.
+
+Jeżeli chcemy już na starcie umieścić implementacje niektórych metod,
+które mogą być dziedziczone przez klasy rozszerzające, to powinniśmy użyć klasy abstrakcyjnej.
+
+Jeżeli chcemy ustalić jakiś wzorzec, powiedzieć co dana klasa może robić, ale nie jak ma to robić,
+to powinniśmy skorzystać z Interfejsu.
+
+Jeżeli chcemy, żeby nasza aplikacja była otwarta na rozszerzenia, żebyśmy mogli
+implementować wiele wzorców, które mówią nam, jak coś możemy zrobić, to powinniśmy użyć Interfejsu.
+
+
